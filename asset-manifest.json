@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minimus_storee/static/css/main.260c30a8.css",
+    "main.js": "/minimus_storee/static/js/main.c16a5f5e.js",
+    "static/media/IMG_2380.jpg": "/minimus_storee/static/media/IMG_2380.61918188c3e3a94fc6e4.jpg",
+    "static/media/IMG_2373.jpg": "/minimus_storee/static/media/IMG_2373.47425088159c99332617.jpg",
+    "static/media/IMG_2372.jpg": "/minimus_storee/static/media/IMG_2372.3e57450b9ddbb478bf98.jpg",
+    "static/media/IMG_2347.jpg": "/minimus_storee/static/media/IMG_2347.3a308730f5570920c682.jpg",
+    "static/media/IMG_2354.jpg": "/minimus_storee/static/media/IMG_2354.092b5de7309705c1259b.jpg",
+    "static/media/IMG_2392.jpg": "/minimus_storee/static/media/IMG_2392.3e320ae55e972e71d1c0.jpg",
+    "static/media/IMG_2346.jpg": "/minimus_storee/static/media/IMG_2346.13f16ea79ce8e94815a3.jpg",
+    "static/media/IMG_2359.jpg": "/minimus_storee/static/media/IMG_2359.565a76abe90e1262d902.jpg",
+    "static/media/IMG_2411.jpg": "/minimus_storee/static/media/IMG_2411.4883ef5b25bd50181b99.jpg",
+    "static/media/IMG_2361.jpg": "/minimus_storee/static/media/IMG_2361.ee734bb1c8846ddca77e.jpg",
+    "static/media/IMG_2356.jpg": "/minimus_storee/static/media/IMG_2356.36d4ac0a032b5c367edb.jpg",
+    "static/media/MINIMUS (2).jpg": "/minimus_storee/static/media/MINIMUS (2).a441366b5756da89f7c5.jpg",
+    "index.html": "/minimus_storee/index.html",
+    "main.260c30a8.css.map": "/minimus_storee/static/css/main.260c30a8.css.map",
+    "main.c16a5f5e.js.map": "/minimus_storee/static/js/main.c16a5f5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.260c30a8.css",
+    "static/js/main.c16a5f5e.js"
+  ]
+}
